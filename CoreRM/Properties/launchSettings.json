@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoreRM": {
+      "commandName": "Project",
+      "commandLineArgs": "-u Landon -t localhost"
+    }
+  }
+}
